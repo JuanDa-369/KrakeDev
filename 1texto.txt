@@ -1,0 +1,4 @@
+Nombre: Juna David Llibri
+Edad: 19 años
+Hobby: MMA, escuhar musica,salir a caminar.
+Nacionalidad: Ecuatoriano
