@@ -1,0 +1,1 @@
+git clone: Sirve para descargar una copia local de un reposotorio remoto existente. 
